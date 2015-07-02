@@ -1,0 +1,23 @@
+# Created by https://www.gitignore.io
+
+### Node ###
+# Logs
+logs
+*.log
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+
+### WebStorm ###
+
+## Directory-based project format:
+.idea/
+
+
+### OSX ###
+.DS_Store
+
+
+# Thumbnails
+._*
